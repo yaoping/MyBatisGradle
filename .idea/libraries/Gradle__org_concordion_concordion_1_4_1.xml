@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.concordion:concordion:1.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.concordion/concordion/1.4.1/fea097e9d63b67dec757181bfe4b070974f2e62d/concordion-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.concordion/concordion/1.4.1/e2cbf4f0ccbe08d5ad5838062a9c7e900e26d367/concordion-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
